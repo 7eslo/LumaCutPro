@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>LumaCut Pro</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.lumacut.pro</string>
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array><string>armv7</string></array>
+    <key>UISupportedInterfaceOrientations</key>
+    <array><string>UIInterfaceOrientationPortrait</string></array>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>نحتاج الوصول لاختيار الفيديو لقص الصمت</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>لحفظ الفيديو المعالج</string>
+    <key>LSSupportsOpeningDocumentsInPlace</key>
+    <true/>
+</dict>
+</plist>
